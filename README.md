@@ -1,7 +1,7 @@
 # project-geeks
 <<<<<<< HEAD
 i am a geek project
-# geeks
+# geeks projects
 =======
 this is commit line
 sdsdsdsd
